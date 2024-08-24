@@ -1,6 +1,6 @@
-# attendance_tracka
+# IITH Attendance App
 
-A new Flutter project.
+An user friendly app for the Teaching Assistants which will eliminate the robust way of collecting attendance through physical copies and integrate the app to the student enrollment list which make the evaluation of the course easier. Designed for courses upto 1000 students efficiently. Developed in the period of Teaching Assistantship of EE3302 - EM Wave Propagation.
 
 ## Getting Started
 
